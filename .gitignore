@@ -1,3 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+data/*.parquet
+data/table_storage/snapshots/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
